@@ -1,0 +1,18 @@
+# i-dle – Mono
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Tell my boys
+I'll be back in spring
+I've found myself my own king
+I took his crown,
+I took his ring
+What if you ignored the cost
+Fostered eyes and fostered loss
+Hold me like your own
+Fostered pen, fostered bone
+Tell all my girls I'll be gone
+Who needs wings
+when I hear you sing
+```
