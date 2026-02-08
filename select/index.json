@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Mono",
+  "base_artist": "i-dle",
+  "createdAt": "2026-02-08T15:26:58.861328Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jackson - Mono Version",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/01_Jackson_-_Mono_Version_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "On the Horizon - Mono",
+      "artist": "Ben E. King",
+      "has_synced": false,
+      "path": "select/02_On_the_Horizon_-_Mono_Ben_E._King.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Were You There (When They Crucified My Lord) - Mono Version",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/03_Were_You_There_(When_They_Crucified_My_Lord)_-_Mono_Version_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dedicated Follower of Fashion - Mono Mix",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/04_Dedicated_Follower_of_Fashion_-_Mono_Mix_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "El de Moño Negro",
+      "artist": "Virus",
+      "has_synced": true,
+      "path": "select/05_El_de_Moño_Negro_Virus.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come And Buy My Toys - mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_Come_And_Buy_My_Toys_-_mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In The Heat Of The Morning - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_In_The_Heat_Of_The_Morning_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Join The Gang - mono",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/08_Join_The_Gang_-_mono_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love You Till Tuesday - mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_Love_You_Till_Tuesday_-_mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love You Till Tuesday - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/10_Love_You_Till_Tuesday_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Maid Of Bond Street - mono",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/11_Maid_Of_Bond_Street_-_mono_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Please Mr. Gravedigger - mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_Please_Mr._Gravedigger_-_mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rubber Band - mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/13_Rubber_Band_-_mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sell Me A Coat - mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/14_Sell_Me_A_Coat_-_mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "She's Got Medals - mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/15_She's_Got_Medals_-_mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Silly Boy Blue - mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/16_Silly_Boy_Blue_-_mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Silly Boy Blue - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/17_Silly_Boy_Blue_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Prettiest Star (Marc Bolan Mono Single Version)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/18_The_Prettiest_Star_(Marc_Bolan_Mono_Single_Version)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "There Is A Happy Land - mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/19_There_Is_A_Happy_Land_-_mono_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Monolith",
+      "artist": "IDLES",
+      "has_synced": false,
+      "path": "select/pl_01_Monolith_IDLES.txt"
+    }
+  ]
+}
